@@ -3,6 +3,7 @@ Please preserve sorted order (by first name).
 
 - Aaron Taylor https://github.com/ExPHAT
 - Abbass Ayoub https://github.com/Abyssinian
+- Ahmad Kashash https://github.com/VongolaDWF
 - Christopher Gregorian https://github.com/csgregorian
 - Dilpreet Chana https://github.com/dilpreetC
 - Dylan McIntyre https://github.com/dylanmcintyre
